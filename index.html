@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>테니스 점수판</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div id="scoreboard">
+    <div class="player" id="player1">
+      <input type="text" id="name1" value="선수1" />
+      <div class="score" id="score1">0</div>
+      <button onclick="addScore(1)">+1 점</button>
+    </div>
+    <div class="player" id="player2">
+      <input type="text" id="name2" value="선수2" />
+      <div class="score" id="score2">0</div>
+      <button onclick="addScore(2)">+1 점</button>
+    </div>
+  </div>
+  <script src="main.js"></script>
+</body>
+</html>
