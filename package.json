@@ -2,7 +2,7 @@
     "name": "tns-scoreboard",
     "version": "1.2.0",
     "private": true,
-    "homepage": "https://parkoon.github.io/tns-scoreboard",
+    "homepage": "https://kimukuntai.github.io/hi-tennis",
     "dependencies": {
         "@testing-library/jest-dom": "^4.2.4",
         "@testing-library/react": "^9.3.2",
