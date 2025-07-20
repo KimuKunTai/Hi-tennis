@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/hi-tennis/static/css/main.4c4318a8.chunk.css",
+    "main.js": "/hi-tennis/static/js/main.6e7b2152.chunk.js",
+    "main.js.map": "/hi-tennis/static/js/main.6e7b2152.chunk.js.map",
+    "runtime-main.js": "/hi-tennis/static/js/runtime-main.f593f710.js",
+    "runtime-main.js.map": "/hi-tennis/static/js/runtime-main.f593f710.js.map",
+    "static/css/2.a581e323.chunk.css": "/hi-tennis/static/css/2.a581e323.chunk.css",
+    "static/js/2.1760deda.chunk.js": "/hi-tennis/static/js/2.1760deda.chunk.js",
+    "static/js/2.1760deda.chunk.js.map": "/hi-tennis/static/js/2.1760deda.chunk.js.map",
+    "index.html": "/hi-tennis/index.html",
+    "precache-manifest.1d032737fd4786a1d5a2cdf8be13ba63.js": "/hi-tennis/precache-manifest.1d032737fd4786a1d5a2cdf8be13ba63.js",
+    "service-worker.js": "/hi-tennis/service-worker.js",
+    "static/css/2.a581e323.chunk.css.map": "/hi-tennis/static/css/2.a581e323.chunk.css.map",
+    "static/css/main.4c4318a8.chunk.css.map": "/hi-tennis/static/css/main.4c4318a8.chunk.css.map",
+    "static/js/2.1760deda.chunk.js.LICENSE.txt": "/hi-tennis/static/js/2.1760deda.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f593f710.js",
+    "static/css/2.a581e323.chunk.css",
+    "static/js/2.1760deda.chunk.js",
+    "static/css/main.4c4318a8.chunk.css",
+    "static/js/main.6e7b2152.chunk.js"
+  ]
+}
